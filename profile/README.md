@@ -19,7 +19,7 @@ A knowledge bank for everything AI @ FLX — from experiments to production-read
 MyFLX is our system built for the FLX salary model. It supports administrators as well as consultants, with different views and operation limitations.
 
 ### 🧪 [lisa](https://github.com/knowit-flx/lisa)  
-Experimental projects and tools — where ideas are born and tested.
+Meet LISA: the LangGraph Intelligent Scrum Assistant. She's a sharp, local-first AI agent designed to help your team stay organized, get context, and automate the boring stuff—like writing standups, summarizing issues, and moving tickets. 
 
 ---
 
